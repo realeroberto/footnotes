@@ -5,7 +5,7 @@ Footnotes: [^1], [^2], [^3], [^4], [^5], [^6], [^7], [^8], [^9], [^10], [^11], [
 
 [^1]: Jerzy Karnasiewicz, _Nowa Huta. Okruchy życia i meandry historia_, Kraków: Wydawnictwo Towarzystwo Słowaków w Polsce, 2003
 
-[^2]: _Nowa Huta_, in _inyourpocket.com_, https://www.inyourpocket.com/krakow/Nowa-Huta_73840f; link accessed on October 9, 2017
+[^2]: [_Nowa Huta_](https://www.inyourpocket.com/krakow/Nowa-Huta_73840f), in _inyourpocket.com_; link accessed on October 9, 2017
 
 [^3]: Biographical data are available online at [_In memoriam – Pamięci Architektów Polskich_](http://www.inmemoriam.architektsarp.pl/)
 
@@ -21,7 +21,7 @@ Footnotes: [^1], [^2], [^3], [^4], [^5], [^6], [^7], [^8], [^9], [^10], [^11], [
 
 [^9]: In _Traditional Dwellings and Settlements Review_, Volume VIII, II, 1997
 
-[^10]: Cf. also L. Perchik, _Bol'shevistskiy plan rekonstruktsii Moskvy_, Moscow, Partizdat, 1935, http://tehne.com/library/perchik-l-bolshevistskiy-plan-rekonstrukcii-moskvy-moskva-1935; English transl. _The Reconstruction of Moscow_, Moscow: Co-operative Publishing Society of Foreign Workers in the U.S.S.R., 1936, http://tehne.com/library/perchik-l-reconstruction-moscow-moscow-1936
+[^10]: Cf. also L. Perchik, [_Bol'shevistskiy plan rekonstruktsii Moskvy_](http://tehne.com/library/perchik-l-bolshevistskiy-plan-rekonstrukcii-moskvy-moskva-1935), Moscow, Partizdat, 1935; English transl. [_The Reconstruction of Moscow_](http://tehne.com/library/perchik-l-reconstruction-moscow-moscow-1936), Moscow: Co-operative Publishing Society of Foreign Workers in the U.S.S.R., 1936
 
 [^11]: Kinga Pozniak, _Nowa Huta: Generations of Change in a Model Socialist Town_, Pittsburgh: University of Pittsburgh Press, 2014
 
