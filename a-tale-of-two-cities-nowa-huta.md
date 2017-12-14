@@ -7,7 +7,7 @@ Footnotes: [^1], [^2], [^3], [^4], [^5], [^6], [^7], [^8], [^9], [^10], [^11], [
 
 [^2]: _Nowa Huta_, in _inyourpocket.com_, https://www.inyourpocket.com/krakow/Nowa-Huta_73840f; link accessed on October 9, 2017
 
-[^3]: biographical data are available online at _In memoriam – Pamięci Architektów Polskich_, http://www.inmemoriam.architektsarp.pl/
+[^3]: Biographical data are available online at [_In memoriam – Pamięci Architektów Polskich_](http://www.inmemoriam.architektsarp.pl/)
 
 [^4]: Karl Mannheim, _Das konservative Denken_, in _Archiv für Sozialwissenschaft und Sozialpolitik_, 1927; cited by Manfredo Tafuri, _Progetto e Utopia_, Bari: Laterza, 1973; English transl. _Architecture and Utopia: Design and Capitalist Development_, Cambridge and London: The MIT Press, 1976
 
