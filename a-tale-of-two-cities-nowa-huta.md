@@ -1,7 +1,7 @@
 A Tale of Two Cities: Nowa Huta
 ===
 
-Footnotes: [^1], [^2], [^3], [^4], [^5], [^6], [^7], [^8], [^9], [^10], [^11], [^12], [^13], [^14], [^15], [^16]
+Read the article on [Medium](https://medium.com/@robertoreale/a-tale-of-two-cities-nowa-huta-e9bbbdcb90a2). Footnotes: [^1], [^2], [^3], [^4], [^5], [^6], [^7], [^8], [^9], [^10], [^11], [^12], [^13], [^14], [^15], [^16]
 
 [^1]: Jerzy Karnasiewicz, _Nowa Huta. Okruchy życia i meandry historia_, Kraków: Wydawnictwo Towarzystwo Słowaków w Polsce, 2003
 
